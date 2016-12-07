@@ -1,0 +1,3 @@
+[submodule "3rd_party/string_split"]
+	path = 3rd_party/string_split
+	url = https://github.com/yumetodo/string_split
